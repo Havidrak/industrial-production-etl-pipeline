@@ -1,0 +1,8 @@
+{
+  "skip_rows": 6,
+  "day_column": "DAILY PRODUCTION REPORT",
+  "sequential_days": false,
+  "plants": {
+    "P19": {"Unnamed: 1": "CPO_C1", "Unnamed: 2": "CPO_C2"}
+  }
+}
